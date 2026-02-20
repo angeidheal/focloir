@@ -12,4 +12,4 @@ Le teacht
 
 **Gàidhlig:** gèidh
 
-**Bèarla:** gay
+**Béarla:** gay
