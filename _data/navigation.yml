@@ -5,11 +5,11 @@
 - title: Gluais
   url: /gluais/
 
-- title: Teanga
-  children:
-    - title: Gàidhlig
-      url: https://faclair.lgbt
-    - title: Gaelg
-      url: https://fockleyr.lgbt
-    - title: Béarla
-      url: /en
+- title: Gàidhlig
+  url: https://faclair.lgbt
+
+- title: Gaelg
+  url: https://fockleyr.lgbt
+  
+- title: Béarla
+  url: /en
