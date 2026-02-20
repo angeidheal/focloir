@@ -16,4 +16,4 @@ Cuir in iúl dúinn trí [ríomhphost](mailto:fios@angeidhealur.scot) nó [Blues
 
 Molaimid cuardach i nGaeilge na hAlba, i mBéarla nó i nGaeilge. Níl aistriúchán Gaeilge Mhanann ag formhór na bhfocal.
 
-Is féidir cuardach a dhéanamh le síntí nó gan iad, e.g. "bród" nó "brod".
+Is féidir libh cuardach a dhéanamh le síntí nó gan iad, e.g. "bród" nó "brod".
