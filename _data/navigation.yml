@@ -1,11 +1,15 @@
-- title: Dachaigh
+
+- title: Cuardaigh
   url: /
 
-- title: Pròiseactan
-  url: /proiseactan
+- title: Gluais
+  url: /gluais/
 
-- title: Mu dheidhinn
-  url: /mu-dheidhinn
-
-- title: Lorg
-  url: /lorg
+- title: Teanga
+  children:
+    - title: Gàidhlig
+      url: https://faclair.lgbt
+    - title: Gaelg
+      url: https://fockleyr.lgbt
+    - title: Béarla
+      url: /en
