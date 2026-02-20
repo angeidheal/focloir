@@ -10,6 +10,6 @@ Le teacht
 
 ## Aistriúcháin
 
-**Gàidhlig** gèidh
+**Gàidhlig:** gèidh
 
-**Bèarla** gay
+**Bèarla:** gay
